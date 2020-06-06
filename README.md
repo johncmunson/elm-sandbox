@@ -1,6 +1,6 @@
 # Elm Sandbox
 
-Elm Sandbox is a boilerplate repo for spinning up toy projects. It is essentially a dev environment wrapped around the [buttons](https://elm-lang.org/examples/buttons) example from the Elm documentation. The emphasis of this project is on learning and ease of use for beginners.
+Elm Sandbox is a boilerplate repo for spinning up toy projects, prototyping new ideas, and learning Elm. It is essentially a dev environment wrapped around the [buttons](https://elm-lang.org/examples/buttons) example from the Elm documentation. Reach for this project when the Elm repl is too limited for your prototyping or learning needs.
 
 ## Getting Started
 
