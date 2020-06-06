@@ -1,0 +1,14 @@
+{
+  "name": "elm-sandbox",
+  "version": "1.0.0",
+  "description": "elm-sandbox",
+  "main": "main.js",
+  "scripts": {
+    "build": "elm make src/Main.elm --optimize --output=main.js",
+    "serve": "elm reactor",
+    "format": "elm-format src --yes",
+    "test": "elm-test",
+    "dev": "elm-live src/Main.elm --open --start-page=index.html -- --output=main.js --debug"
+  },
+  "license": "MIT"
+}
